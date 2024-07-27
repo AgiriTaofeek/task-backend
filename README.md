@@ -1,1 +1,1 @@
-A simple API made Express, Typescript and Prisma as the simple local DB
+A simple API made with Express, Typescript and Prisma as the simple local DB
